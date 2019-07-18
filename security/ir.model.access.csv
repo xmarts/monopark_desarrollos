@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_desarrollos_monopark_desarrollos_monopark,desarrollos_monopark.desarrollos_monopark,model_desarrollos_monopark_desarrollos_monopark,,1,0,0,0
